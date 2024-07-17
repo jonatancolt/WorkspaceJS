@@ -1,0 +1,47 @@
+.container{
+    float: right;
+    
+}
+
+.calculator{
+    width: 400px;
+    
+    
+}
+
+.display{
+    font-size: 2em;
+    width: 400px;
+    text-align: right;
+}
+
+.btn-num{
+width: 100%;
+height: 50px;
+font-size: 1em;
+background-color: #dfdfdf;
+cursor: pointer;
+}
+
+.btn-num:hover{
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.btn-del{
+    width: 100%;
+height: 50px;
+font-size: 1em; 
+cursor: pointer;
+}
+.btn-del:hover{
+    background: rgba(0, 0, 0, 0.5);
+}
+.btn-{
+    width: 100%;
+    height: 50px;
+    font-size: 1em; 
+    cursor: pointer;
+}
+.btn-:hover{
+    background: rgba(0, 0, 0, 0.5);
+}
